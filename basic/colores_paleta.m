@@ -1,0 +1,20 @@
+figure
+text(0.2,0.95,'Control','color',colores('control'));
+text(0.2,0.90,'CS1','color',colores('CS1'));
+text(0.2,0.85,'CS2','color',colores('CS2'));
+text(0.2,0.80,'Freezing','color',colores('Freezing'));
+text(0.2,0.75,'Apetitivo','color',colores('Apetitivo'));
+text(0.2,0.70,'Aversivo','color',colores('Aversivo'));
+text(0.2,0.65,'BLA','color',colores('BLA'));
+text(0.2,0.60,'PL','color',colores('PL'));
+text(0.2,0.55,'IL','color',colores('IL'));
+text(0.2,0.50,'4Hz','color',colores('4Hz'));
+text(0.2,0.45,'Theta','color',colores('Theta'));
+text(0.2,0.40,'Beta','color',colores('Beta'));
+text(0.2,0.35,'sGamma','color',colores('sGamma'));
+text(0.2,0.30,'fGamma','color',colores('fGamma'));
+text(0.2,0.25,'Negro','color',colores('Negro'));
+text(0.2,0.20,'Gris','color',colores('Gris'));
+text(0.2,0.15,'Magenta','color',colores('Magenta'));
+text(0.2,0.10,'Cyan','color',colores('Cyan'));
+axis off
